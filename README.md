@@ -1,1 +1,1 @@
-"this a repo which contains my own solutions of leetcode problems"
+"this IS a repo that contains my own solutions of leetcode problems"
